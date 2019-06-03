@@ -1,4 +1,6 @@
 # hello-word
 Just another repository
 
-こんにちは　皆さん
+西川絵梨香です
+人生一度きり
+
